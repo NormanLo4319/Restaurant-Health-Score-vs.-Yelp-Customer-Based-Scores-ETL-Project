@@ -5,6 +5,6 @@
 
 
 # Yelp Key
-ID = "kZfKwbVYK_4yJHOY3mL6gQ"
-ykey = "obxkOqO4VMp8qneeDjYdwoNgO0rNCWR9tf1RUdf51kmzxfV8zaXrRDBDXfWSH7_DzPMy3kU1BsVBTwx-MzscwYzshsHphAsxaiqd10OPpAMlefPRoJbM6bx9NfaaXHYx"
+ID = "Enter Your Yelp ID Here"
+ykey = "Enter your Yelp API Key Here"
 
