@@ -2,6 +2,11 @@
 
 use ETL_Project_db;
 
+SELECT * FROM inspection;
+
+SELECT * FROM yelp;
+
+
 SELECT inspection.name 
 FROM inspection
 WHERE inspection_score = 100;
@@ -12,7 +17,7 @@ WHERE rating = 5;
 
 SELECT risk_category, COUNT(name) as 'Total Count'
 FROM inspection
-GROUP BY risk_category
+GROUP BY risk_category;
 
 
 SELECT inspection.name, inspeciont.inspection_score, yelp.rating, yelp.reviews
